@@ -1,0 +1,242 @@
+[
+ {
+  "tier": "1-web-ui",
+  "skill": "ui-ux-pro-max",
+  "files": 76,
+  "kb": 627,
+  "sha256": "4c77a5be87e31300",
+  "patched": null
+ },
+ {
+  "tier": "1-web-ui",
+  "skill": "frontend-design",
+  "files": 2,
+  "kb": 7,
+  "sha256": "db82dbc6625a65b4",
+  "patched": null
+ },
+ {
+  "tier": "1-web-ui",
+  "skill": "vercel-react-best-practices",
+  "files": 76,
+  "kb": 96,
+  "sha256": "3b3cd6f3242a236a",
+  "patched": null
+ },
+ {
+  "tier": "1-web-ui",
+  "skill": "vercel-composition-patterns",
+  "files": 14,
+  "kb": 18,
+  "sha256": "6e2d8dc08498c961",
+  "patched": null
+ },
+ {
+  "tier": "1-web-ui",
+  "skill": "vercel-react-view-transitions",
+  "files": 9,
+  "kb": 43,
+  "sha256": "27111505d15d9ba9",
+  "patched": "Removed angle brackets from <ViewTransition> in description (claude.ai rejects XML-like tags in descriptions). Body unchanged."
+ },
+ {
+  "tier": "1-web-ui",
+  "skill": "web-design-guidelines",
+  "files": 1,
+  "kb": 0,
+  "sha256": "d18b5a618a249a80",
+  "patched": null
+ },
+ {
+  "tier": "2-gsap-motion",
+  "skill": "gsap-core",
+  "files": 2,
+  "kb": 6,
+  "sha256": "5436fbd9c38ab0a1",
+  "patched": null
+ },
+ {
+  "tier": "2-gsap-motion",
+  "skill": "gsap-frameworks",
+  "files": 2,
+  "kb": 4,
+  "sha256": "6eff7e209b2d96b5",
+  "patched": null
+ },
+ {
+  "tier": "2-gsap-motion",
+  "skill": "gsap-performance",
+  "files": 2,
+  "kb": 2,
+  "sha256": "81cd5f13e9546cab",
+  "patched": null
+ },
+ {
+  "tier": "2-gsap-motion",
+  "skill": "gsap-plugins",
+  "files": 2,
+  "kb": 8,
+  "sha256": "870b6f13f682088a",
+  "patched": null
+ },
+ {
+  "tier": "2-gsap-motion",
+  "skill": "gsap-react",
+  "files": 2,
+  "kb": 3,
+  "sha256": "fdfdd0772e30f55a",
+  "patched": null
+ },
+ {
+  "tier": "2-gsap-motion",
+  "skill": "gsap-scrolltrigger",
+  "files": 2,
+  "kb": 7,
+  "sha256": "99ae941bb2320644",
+  "patched": null
+ },
+ {
+  "tier": "2-gsap-motion",
+  "skill": "gsap-timeline",
+  "files": 2,
+  "kb": 2,
+  "sha256": "ab8bac72d79e7ff6",
+  "patched": null
+ },
+ {
+  "tier": "2-gsap-motion",
+  "skill": "gsap-utils",
+  "files": 2,
+  "kb": 5,
+  "sha256": "35eefb1a751c4dd9",
+  "patched": null
+ },
+ {
+  "tier": "3-threejs-3d",
+  "skill": "threejs-animation",
+  "files": 2,
+  "kb": 7,
+  "sha256": "7b06befbc71387db",
+  "patched": null
+ },
+ {
+  "tier": "3-threejs-3d",
+  "skill": "threejs-asset-pipeline",
+  "files": 2,
+  "kb": 6,
+  "sha256": "bb16b6ae700321b2",
+  "patched": null
+ },
+ {
+  "tier": "3-threejs-3d",
+  "skill": "threejs-fundamentals",
+  "files": 2,
+  "kb": 8,
+  "sha256": "57f7545dd1c25894",
+  "patched": null
+ },
+ {
+  "tier": "3-threejs-3d",
+  "skill": "threejs-geometry",
+  "files": 2,
+  "kb": 8,
+  "sha256": "a340a8e74e07393b",
+  "patched": null
+ },
+ {
+  "tier": "3-threejs-3d",
+  "skill": "threejs-interaction",
+  "files": 2,
+  "kb": 7,
+  "sha256": "f20905200950eb96",
+  "patched": null
+ },
+ {
+  "tier": "3-threejs-3d",
+  "skill": "threejs-lighting",
+  "files": 2,
+  "kb": 8,
+  "sha256": "e756adec854755c1",
+  "patched": null
+ },
+ {
+  "tier": "3-threejs-3d",
+  "skill": "threejs-loaders",
+  "files": 2,
+  "kb": 7,
+  "sha256": "47100c47df7c1d74",
+  "patched": null
+ },
+ {
+  "tier": "3-threejs-3d",
+  "skill": "threejs-materials",
+  "files": 2,
+  "kb": 9,
+  "sha256": "e80f76a97f12b9f1",
+  "patched": null
+ },
+ {
+  "tier": "3-threejs-3d",
+  "skill": "threejs-performance",
+  "files": 2,
+  "kb": 9,
+  "sha256": "e17e26560f38ddab",
+  "patched": null
+ },
+ {
+  "tier": "3-threejs-3d",
+  "skill": "threejs-postprocessing",
+  "files": 2,
+  "kb": 8,
+  "sha256": "4bd4d278cd80261c",
+  "patched": null
+ },
+ {
+  "tier": "3-threejs-3d",
+  "skill": "threejs-react-three-fiber",
+  "files": 2,
+  "kb": 11,
+  "sha256": "4228a34d8a227f00",
+  "patched": null
+ },
+ {
+  "tier": "3-threejs-3d",
+  "skill": "threejs-shaders",
+  "files": 2,
+  "kb": 8,
+  "sha256": "1e34a7c74a797c82",
+  "patched": null
+ },
+ {
+  "tier": "3-threejs-3d",
+  "skill": "threejs-textures",
+  "files": 2,
+  "kb": 8,
+  "sha256": "3b375a524c3c2922",
+  "patched": null
+ },
+ {
+  "tier": "4-optional-creative",
+  "skill": "web-artifacts-builder",
+  "files": 5,
+  "kb": 29,
+  "sha256": "ad9592c70da4a4f0",
+  "patched": null
+ },
+ {
+  "tier": "4-optional-creative",
+  "skill": "algorithmic-art",
+  "files": 4,
+  "kb": 18,
+  "sha256": "f9016b11d8e0ff73",
+  "patched": null
+ },
+ {
+  "tier": "4-optional-creative",
+  "skill": "canvas-design",
+  "files": 83,
+  "kb": 2585,
+  "sha256": "bb1120af3ded9f39",
+  "patched": null
+ }
+]
